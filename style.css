@@ -6,7 +6,6 @@
 body {
   background-image: url('./images/imagens\ de\ harry\ potter.png');
   background-size: 100%;
-  opacity: 0.95;
 }
 
 .header {
@@ -56,7 +55,7 @@ main {
   flex-direction: column;
   align-items: flex-start;
   background-color: white;
-  margin-top: 100px;
+  margin-top: 7%;
   margin-left: 100px;
   padding: 15px;
   border: 3px solid rgb(50, 167, 145);
@@ -81,7 +80,7 @@ main {
 
 #trybewarts-forms-logo {
   height: 500px;
-  margin-top: 100px;
+  margin-top: 5%;
   /* margin-left: 100px; */
   border-radius: 30px;
   position: absolute;
@@ -150,14 +149,14 @@ main {
 
 footer {
   background-color: rgb(50, 167, 145);
-  position: absolute;
+  /* position: absolute; */
   text-align: center;
   color: white;
   display: flex;
   justify-content: center;
   width: 100%;
   bottom: 0;
-  z-index: 1;
+  /* z-index: 1; */
 }
 
 #login-button {
